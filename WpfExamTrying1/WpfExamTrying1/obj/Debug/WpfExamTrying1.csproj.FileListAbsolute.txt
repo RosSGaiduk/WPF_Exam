@@ -1,0 +1,37 @@
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\WpfExamTrying1.exe.config
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\WpfExamTrying1.exe
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\WpfExamTrying1.pdb
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\EntityFramework.dll
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\EntityFramework.xml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1.csprojResolveAssemblyReference.cache
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\MainWindow.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\App.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1_MarkupCompile.cache
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1_MarkupCompile.lref
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\MainWindow.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1.g.resources
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1.Properties.Resources.resources
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1.csproj.GenerateResource.Cache
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1.exe
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\WpfExamTrying1.pdb
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Create constructor.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Create constructor.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\BaseControlls.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\BaseControlls.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Delete_constructor.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Delete_constructor.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Create_vehicle.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Create_vehicle.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Delete_vehicle.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Delete_vehicle.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Find_constructor.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\Find_constructor.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\FindVehicle.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\FindVehicle.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\EditConstructor.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\EditConstructor.baml
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\EditVehicle.g.cs
+c:\users\rostyslav\desktop\RSA_Extended\WpfExamTrying1\WpfExamTrying1\obj\Debug\EditVehicle.baml

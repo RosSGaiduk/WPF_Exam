@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="WpfExamTrying1.EditConstructor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfExamTrying1"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="700">
+    <Grid Background="White" Name="editGrid">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="57,169,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="74"/>
+        <Button x:Name="button" Content="Find" HorizontalAlignment="Left" Margin="144,10,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="button_Click"/>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Height="100" Margin="10,52,0,0" VerticalAlignment="Top" Width="209">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="112"/>
+        <Label x:Name="label" Content="Count" HorizontalAlignment="Left" Margin="10,166,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button_Copy" Content="Ok" HorizontalAlignment="Left" Margin="136,168,0,0" VerticalAlignment="Top" Width="58" Height="23" Click="button_Copy_Click"/>
+        <Button x:Name="button_Copy1" Content="Ok" HorizontalAlignment="Left" Margin="311,79,-130.2,0" VerticalAlignment="Top" Width="120" Height="60" Click="button_Copy_Click1" RenderTransformOrigin="0.194,0.268"/>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+
+    </Grid>
+</UserControl>
